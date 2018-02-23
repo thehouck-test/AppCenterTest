@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
 		<data>
-		pxXgE6A/108UIIdzlhJOZJib4g8=
+		OOyZaVhZz7loM54zslWgVUM/M/E=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		T+KsaTXnHX3o1kDfDvADWJxOcxo=
+		Yunbkb540ec569QMg4hdeE/tLg8=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -59,15 +59,15 @@
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest.dSYM/Contents/Resources/DWARF/AppCenterTestUITests</key>
 		<data>
-		WYaOR5Geo2vUg1S0BgZNlj8Q+dQ=
+		SlZtNJ3ipuUcqAin+LOHPs2RElY=
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/AppCenterTestUITests</key>
 		<data>
-		MjfBQfEmJjVr2mvWCjM2X3OYh30=
+		pzKX1kU+jcCxFRrlq9FNIMQsRXw=
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/AppCenterXCUITestExtensions</key>
 		<data>
-		nFEdzqYvU79GxjDy+HMAliiNW1g=
+		3U0I9/sX1FWAocp6U+SVHqL6Xds=
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/Info.plist</key>
 		<data>
@@ -139,11 +139,11 @@
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/Info.plist</key>
 		<data>
-		gYgwbR9Fnt8l/I7QKNLOrh5d0I4=
+		XwHxgpwQrrT1VpFgEw5kITUZERs=
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		2DiMXhvmlnpBL1quTorzZegaMnM=
+		UlIlYCJlfWeO0TA6gYSEp9g6G4M=
 		</data>
 		<key>PlugIns/AppCenterTestUITests.xctest/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -171,11 +171,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pxXgE6A/108UIIdzlhJOZJib4g8=
+			OOyZaVhZz7loM54zslWgVUM/M/E=
 			</data>
 			<key>hash2</key>
 			<data>
-			529Zy4mpqVygAp22gOq4Kh2pziPAhqlcfgdmgJlo0o4=
+			lVn60DqEG6LL4GNENCLZjqrGHP4fbwdWD+sCbj/Knys=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
@@ -215,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T+KsaTXnHX3o1kDfDvADWJxOcxo=
+			Yunbkb540ec569QMg4hdeE/tLg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6yW9kv9CbqtzO+kE7sBO4EBWpmK0Ncxz2EVgiKMVY0=
+			QNH67fD0hzVThjQpiWPWpkCPPyptkTaZ9mvF2gLWR8U=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
@@ -272,33 +272,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WYaOR5Geo2vUg1S0BgZNlj8Q+dQ=
+			SlZtNJ3ipuUcqAin+LOHPs2RElY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UZ6qNLx73xm2vswPKFzuenbGh9t4pgT74Y+NtbStQQU=
+			yna4sC3V9alWUpzkuwqPrzebI2FL69RCofGcksOtjeA=
 			</data>
 		</dict>
 		<key>PlugIns/AppCenterTestUITests.xctest/AppCenterTestUITests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MjfBQfEmJjVr2mvWCjM2X3OYh30=
+			pzKX1kU+jcCxFRrlq9FNIMQsRXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QGlUI+ca3QGCoZ/csbA+RvjCsc3KygFHv913+qhLzwI=
+			I4KXqAV5pKxdLb/0mCX1N/UK68h4CL/wUM2NkUT915A=
 			</data>
 		</dict>
 		<key>PlugIns/AppCenterTestUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/AppCenterXCUITestExtensions</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nFEdzqYvU79GxjDy+HMAliiNW1g=
+			3U0I9/sX1FWAocp6U+SVHqL6Xds=
 			</data>
 			<key>hash2</key>
 			<data>
-			eVlJp2qxaw7fi3xgaQ95d6yQmXHt6I4yjFpfnAzHea4=
+			GqUF7zJLleefSLtECYfdKcdqSxFoUA16nbYz3nGfzj0=
 			</data>
 		</dict>
 		<key>PlugIns/AppCenterTestUITests.xctest/Frameworks/AppCenterXCUITestExtensions.framework/Info.plist</key>
@@ -492,22 +492,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gYgwbR9Fnt8l/I7QKNLOrh5d0I4=
+			XwHxgpwQrrT1VpFgEw5kITUZERs=
 			</data>
 			<key>hash2</key>
 			<data>
-			cy1oHRlDjN3Wl+g9f7ZtlI1P9iMPyBOTpiTDc8+HW8E=
+			ccDyypq5oHWtLfAxlY6ELQM2WY0HXivmot06kLwmClY=
 			</data>
 		</dict>
 		<key>PlugIns/AppCenterTestUITests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2DiMXhvmlnpBL1quTorzZegaMnM=
+			UlIlYCJlfWeO0TA6gYSEp9g6G4M=
 			</data>
 			<key>hash2</key>
 			<data>
-			lFreqALr35F2Q8BKJ999Yht5unCBnzB/hLdVx+eHW90=
+			iJir7XJ/1hLHFZA5lJtdCIgBcEwpHIYe9KPW+ZpatrI=
 			</data>
 		</dict>
 		<key>PlugIns/AppCenterTestUITests.xctest/libswiftRemoteMirror.dylib</key>

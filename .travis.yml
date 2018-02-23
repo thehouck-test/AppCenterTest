@@ -1,0 +1,9 @@
+os:
+  - osx
+osx_image: xcode9.2
+xcode_sdk: iPhone 6 (11.2)
+language: objective-c
+script:
+ - pwd
+ - xcrun simctl list
+ - fastlane test

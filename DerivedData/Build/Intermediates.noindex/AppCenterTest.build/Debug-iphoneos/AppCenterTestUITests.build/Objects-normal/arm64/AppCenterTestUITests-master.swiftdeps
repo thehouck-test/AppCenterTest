@@ -1,5 +1,5 @@
 version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
-options: "cff860ee6268b68054da5bef1077ff41"
-build_time: [1519405384, 740833000]
+options: "262a22a4dcde3b0e7cf7b95a75e01906"
+build_time: [1519413874, 41089000]
 inputs:
-  "/Users/A656440/dev/AppCenterTest/AppCenterTestUITests/AppCenterTestUITests.swift": [1519405366, 0]
+  "/Users/A656440/dev/AppCenterTest/AppCenterTestUITests/AppCenterTestUITests.swift": [1519413642, 0]
