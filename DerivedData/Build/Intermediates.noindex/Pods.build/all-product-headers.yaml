@@ -1,0 +1,134 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ACTLabel.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/AppCenterXCUITestExtensions/Sources/ACTLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "ACTLaunch.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/AppCenterXCUITestExtensions/Sources/ACTLaunch.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-Bridging-Header.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/AppCenterXCUITestExtensions/Sources/AppCenterXCUITestExtensions-Bridging-Header.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-Swift.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Headers/AppCenterXCUITestExtensions-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions-umbrella.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/Target Support Files/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppCenterXCUITestExtensions.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/AppCenterXCUITestExtensions/Sources/AppCenterXCUITestExtensions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/AppCenterXCUITestExtensions/AppCenterXCUITestExtensions.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AppCenterXCUITestExtensions.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTest.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-AppCenterTest-umbrella.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/Target Support Files/Pods-AppCenterTest/Pods-AppCenterTest-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_AppCenterTest-Swift.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTest.framework/Headers/Pods_AppCenterTest-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTest.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-AppCenterTest.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-AppCenterTestTests-umbrella.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/Target Support Files/Pods-AppCenterTestTests/Pods-AppCenterTestTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_AppCenterTestTests-Swift.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestTests.framework/Headers/Pods_AppCenterTestTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-AppCenterTestTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-AppCenterTestUITests-umbrella.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/Pods/Target Support Files/Pods-AppCenterTestUITests/Pods-AppCenterTestUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_AppCenterTestUITests-Swift.h",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestUITests.framework/Headers/Pods_AppCenterTestUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Products/Debug-iphoneos/Pods_AppCenterTestUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/A656440/dev/AppCenterTest/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-AppCenterTestUITests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

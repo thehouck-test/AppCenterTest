@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1e3db3f4d55172c6d191f3caee16050b"
+build_time: [1519403834, 923880000]
+inputs:
+  "/Users/A656440/dev/AppCenterTest/AppCenterTest/SecondViewController.swift": [1519402469, 0]
+  "/Users/A656440/dev/AppCenterTest/AppCenterTest/AppDelegate.swift": [1519403447, 0]
+  "/Users/A656440/dev/AppCenterTest/AppCenterTest/FirstViewController.swift": [1519402469, 0]

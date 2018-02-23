@@ -1,0 +1,22 @@
+PODS:
+  - AppCenter (1.4.0):
+    - AppCenter/Analytics (= 1.4.0)
+    - AppCenter/Crashes (= 1.4.0)
+  - AppCenter/Analytics (1.4.0):
+    - AppCenter/Core
+  - AppCenter/Core (1.4.0)
+  - AppCenter/Crashes (1.4.0):
+    - AppCenter/Core
+  - AppCenterXCUITestExtensions (1.0.0)
+
+DEPENDENCIES:
+  - AppCenter
+  - AppCenterXCUITestExtensions
+
+SPEC CHECKSUMS:
+  AppCenter: 2f5890b60944971b8c3767269a9d693205a91fef
+  AppCenterXCUITestExtensions: 8825ed941664fa21d6740a5ed6928a84c06623ac
+
+PODFILE CHECKSUM: 4b955a389058a36aafcbe96387fd6bfe31d63ad2
+
+COCOAPODS: 1.4.0
